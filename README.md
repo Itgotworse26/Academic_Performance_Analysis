@@ -11,6 +11,9 @@ The purpose of this analysis is to determine the effects of attempting to correc
 
 #### How is the district summary affected?
 
+##### District Analysis
+![District Analysis](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/District_Summary.PNG)
+
 
 #### How is the school summary affected?
 
