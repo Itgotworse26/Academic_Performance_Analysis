@@ -9,6 +9,11 @@ The purpose of this analysis is to determine the effects of attempting to correc
 
 ### Results: 
 
+![District Analysis Before Replacing Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Resources/per_school_summary_df_Old.PNG)
+
+![District Analysis After Replacing Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Resources/per_school_summary_df_Revised.PNG)
+
+
 #### How is the district summary affected?
 #### How is the school summary affected?
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
