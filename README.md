@@ -37,18 +37,12 @@ The purpose of this analysis is to determine the effects of attempting to correc
 ![Reading scores by grade](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Reading_Scores_by_Grade.PNG)
 
 * ##### Scores by school spending
-
-###### Scores by school spending
 ![Scores by school spending](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Scores_by_Spending.PNG)
 
 * ##### Scores by school size
-
-###### Scores by school size
 ![Scores by school size](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Scores_by_Size.PNG)
 
 * ##### Scores by school type
-
-###### Scores by school type
 ![Scores by school type](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Scores_by_Type.PNG)
 
 ### Summary: 
