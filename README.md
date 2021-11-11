@@ -46,4 +46,14 @@ The purpose of this analysis is to determine the effects of attempting to correc
 ![Scores by school type](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Scores_by_Type.PNG)
 
 ### Summary: 
+If the suspected grades were replaced, the effects on Thomas High School's standings would be large.
 
+* The overall passing grades of Thomas High School students dropped from 90.630324% to 65.076453%.
+
+* The percentages of Thomas High School students passing reading fell from 97.018739% to 69.663609%.
+
+* The percentages of Thomas High School students passing passing fell from 93.185690% to 66.911315%.
+
+* The average percentages of Thomas High School students' math and reading scores however did not change from 83.350937% or 83.896082% respectively. 
+
+While the average percentages of math and reading scores would not change, the percentages of students passing math, reading, and overall dropped by more than 20%. 
