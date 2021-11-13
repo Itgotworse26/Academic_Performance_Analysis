@@ -40,7 +40,7 @@ The purpose of this analysis is to determine the effects of attempting to correc
 ###### Math Scores by Grade Before Deleting THS 9th Graders
 ![Math Scores by Grade Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Math_Scores_Before_NAN.PNG)
 
-###### Math Scores by Grade After Deleting THS 9th Graders 
+###### Math Scores by Grade Before Deleting THS 9th Graders
 ![Math Scores by Grade After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Math_Scores_No_THS_9th_Graders.PNG)
 
 
@@ -51,17 +51,24 @@ The purpose of this analysis is to determine the effects of attempting to correc
 ![Reading Scores by Grade After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Reading_Scores_No_THS_9th_Graders.PNG)
 
 
-* ##### Scores by school spending Before Deleting THS 9th Graders
-![Scores by school spending Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_Before_NAN.PNG)
+* ##### Scores by School Spending Before Deleting THS 9th Graders
+![Scores by School Spending Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_Before_NAN.PNG)
 
-* ##### Scores by school size After Deleting THS 9th Graders
-![Scores by school size After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_No_THS_9th_Grade.PNG)
+* ##### Scores by School Spending After Deleting THS 9th Graders
+![Scores by School Spending After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Spending_Summary_No_THS_9th_Grade.PNG)
 
 
-* ##### Scores by school type Before Deleting THS 9th Graders
+* #### Scores by School Size Before Deleting THS 9th Graders
+![Scores by School Size Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_Before_NAN.PNG)
+
+* #### Scores by School Size After Deleting THS 9th Graders
+![Scores by School Size After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_No_THS_9th_Grade.PNG)
+
+
+* ##### Scores by School Type Before Deleting THS 9th Graders
 ![Scores by school type Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Type_Summary_Before_NAN.PNG)
 
-* ##### Scores by school type After Deleting THS 9th Graders
+* ##### Scores by School Type After Deleting THS 9th Graders
 ![Scores by school type After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Type_Summary_No_THS_9th_Grade.PNG)
 
 
