@@ -19,7 +19,27 @@ The purpose of this analysis is to determine the effects of attempting to correc
 
 
 #### How is the school summary affected?
-##### Column Order: School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
+Please note: the Column Order is: 
+
+School Type	
+
+Total Students	
+
+Total School 
+
+Budget	
+
+Per Student Budget	
+
+Average Math Score	
+
+Average Reading Score	
+
+% Passing Math	
+
+% Passing Reading	
+
+% Overall Passing
 
 ##### School Analysis Before Replacing Altered Scores
 ![School Analysis Before Replacing Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/THS_School_Summary_Before_NAN.PNG)
