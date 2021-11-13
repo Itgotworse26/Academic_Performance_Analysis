@@ -19,6 +19,7 @@ The purpose of this analysis is to determine the effects of attempting to correc
 
 
 #### How is the school summary affected?
+##### Column Order: School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
 
 ##### School Analysis Before Replacing Altered Scores
 ![School Analysis Before Replacing Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/THS_School_Summary_Before_NAN.PNG)
@@ -77,9 +78,9 @@ The purpose of this analysis is to determine the effects of attempting to correc
 ### Summary: 
 If the suspected grades were replaced, the effects on Thomas High School's standings would be large.
 
-* The overall passing grades of Thomas High School students dropped from 90.630324% to 65.076453%.
+* The overall passing grades of Thomas High School students dropped from 90.948012% to 65.076453% after replacing THS 9th graders' scores with NaN and rose to 90.630324% after deleting them from THS's data.
 
-* The percentages of Thomas High School students passing reading fell from 97.018739% to 69.663609%.
+* The percentages of Thomas High School students passing reading fell from to 69.663609% and rose to 97.018739% after deleting them from THS's data.
 
 * The percentages of Thomas High School students passing passing fell from 93.185690% to 66.911315%.
 
