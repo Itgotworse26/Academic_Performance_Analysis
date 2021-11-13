@@ -56,4 +56,4 @@ If the suspected grades were replaced, the effects on Thomas High School's stand
 
 * The average percentages of Thomas High School students' math and reading scores however did not change from 83.350937% or 83.896082% respectively. 
 
-While the average percentages of math and reading scores would not change, the percentages of students passing math, reading, and overall dropped by more than 20%. Also, with the corrections to the grades, Thomas High School would no longer be in the Top 5 schools; its place would be taken by Wright High School. 
+While the average percentages of math and reading scores would not change, the percentages of students passing math, reading, and overall dropped by more than 20%. Also, with the corrections to the grades, Thomas High School would no longer be in the Top 5 schools.
