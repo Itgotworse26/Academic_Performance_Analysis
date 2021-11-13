@@ -33,6 +33,8 @@ The purpose of this analysis is to determine the effects of attempting to correc
 
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
 #### How does replacing the ninth-grade scores affect the following:
 
 * ##### Math and reading scores by grade
@@ -40,7 +42,7 @@ The purpose of this analysis is to determine the effects of attempting to correc
 ###### Math Scores by Grade Before Deleting THS 9th Graders
 ![Math Scores by Grade Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Math_Scores_Before_NAN.PNG)
 
-###### Math Scores by Grade Before Deleting THS 9th Graders
+###### Math Scores by Grade After Deleting THS 9th Graders
 ![Math Scores by Grade After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Math_Scores_No_THS_9th_Graders.PNG)
 
 
