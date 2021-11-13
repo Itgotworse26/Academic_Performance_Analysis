@@ -11,18 +11,25 @@ The purpose of this analysis is to determine the effects of attempting to correc
 
 #### How is the district summary affected?
 
-##### District Analysis
-![District Analysis](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/District_Summary.PNG)
+##### District Analysis Before Replacing THS 9th Grade Scores with NAN
+![District Analysis Before Replacing THS 9th Grade Scores with NAN](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/District_Summary_Before_NAN.PNG)
+
+##### District Analysis After Replacing THS 9th Grade Scores with NAN
+![District Analysis After Replacing THS 9th Grade Scores with NAN](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/District_Summary_After_NAN.PNG)
 
 
 #### How is the school summary affected?
 
 ##### School Analysis Before Replacing Altered Scores
-![School Analysis Before Replacing Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/per_school_summary_df_Altered.PNG)
+![School Analysis Before Replacing Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/THS_School_Summary_Before_NAN.PNG)
 
 
 ##### School Analysis After Replacing Altered Scores
-![School Analysis After Replacing Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/per_school_summary_df_Correct.PNG)
+![School Analysis After Replacing Altered Scores with NAN](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/THS_School_Summary_After_NAN.PNG)
+
+##### School Analysis After Deleting Altered Scores
+![School Analysis After Deleting Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/THS_School_Summary_No_THS_9th_Graders.PNG)
+
 
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -30,20 +37,33 @@ The purpose of this analysis is to determine the effects of attempting to correc
 
 * ##### Math and reading scores by grade
 
-###### Math scores by grade
-![Math scores by grade](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Math_Scores_by_Grade.PNG)
+###### Math Scores by Grade Before Deleting THS 9th Graders
+![Math Scores by Grade Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Math_Scores_Before_NAN.PNG)
 
-###### Reading scores by grade
-![Reading scores by grade](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Reading_Scores_by_Grade.PNG)
+###### Math Scores by Grade After Deleting THS 9th Graders 
+![Math Scores by Grade After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Math_Scores_No_THS_9th_Graders.PNG)
 
-* ##### Scores by school spending
-![Scores by school spending](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Scores_by_Spending.PNG)
 
-* ##### Scores by school size
-![Scores by school size](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Scores_by_Size.PNG)
+###### Reading Scores by Grade Before Deleting THS 9th Graders
+![Reading Scores by Grade Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Reading_Scores_Before_NAN.PNG)
 
-* ##### Scores by school type
-![Scores by school type](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Scores_by_Type.PNG)
+###### Reading Scores by Grade After Deleting THS 9th Graders
+![Reading Scores by Grade After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Reading_Scores_No_THS_9th_Graders.PNG)
+
+
+* ##### Scores by school spending Before Deleting THS 9th Graders
+![Scores by school spending Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_Before_NAN.PNG)
+
+* ##### Scores by school size After Deleting THS 9th Graders
+![Scores by school size After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_No_THS_9th_Grade.PNG)
+
+
+* ##### Scores by school type Before Deleting THS 9th Graders
+![Scores by school type Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Type_Summary_Before_NAN.PNG)
+
+* ##### Scores by school type After Deleting THS 9th Graders
+![Scores by school type After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Type_Summary_No_THS_9th_Grade.PNG)
+
 
 ### Summary: 
 If the suspected grades were replaced, the effects on Thomas High School's standings would be large.
