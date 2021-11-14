@@ -11,6 +11,9 @@ The purpose of this analysis is to determine the effects of attempting to correc
 
 #### How is the district summary affected?
 
+As seen below, overall passing scores fell by 0.3%, passing reading scores fell by 0.1%, and passing math scores fell by 0.2%. However, average reading scores did not change while average math scores fell by 0.1%. 
+
+
 ##### District Analysis Before Replacing THS 9th Grade Scores with NAN
 ![District Analysis Before Replacing THS 9th Grade Scores with NAN](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/District_Summary_Before_NAN.PNG)
 
@@ -41,6 +44,16 @@ Average Reading Score
 
 % Overall Passing
 
+
+The overall passing grades of Thomas High School students dropped from 90.948012% to 65.076453% after replacing THS 9th graders' scores with NaN and rose to 90.630324% after deleting them from THS's data.
+
+The percentages of Thomas High School students passing reading fell from 97.308869 to 69.663609% and rose to 97.018739% after deleting them from THS's data.
+
+The percentages of Thomas High School students passing passing fell from 93.272171% to 66.911315% and rose to 93.185690% after deleting them from THS's data.
+
+The average scores of THS's reading and math did not change that much; while tenths, hundreths, and thousandths of a percentage changed from old, Nan, and deleted scores, both math and reading scores did not drop from about 83%. 
+
+
 ##### School Analysis Before Replacing Altered Scores
 ![School Analysis Before Replacing Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/THS_School_Summary_Before_NAN.PNG)
 
@@ -48,17 +61,20 @@ Average Reading Score
 ##### School Analysis After Replacing Altered Scores
 ![School Analysis After Replacing Altered Scores with NAN](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/THS_School_Summary_After_NAN.PNG)
 
+
 ##### School Analysis After Deleting Altered Scores
 ![School Analysis After Deleting Altered Scores](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/THS_School_Summary_No_THS_9th_Graders.PNG)
 
 
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+While replacing the 9th graders' scores with NaN would drop Thomas High School outside of the Top 5 performing schools due to 65.076453% being outside of the Top 5 performing schools, simply deleting it would keep it inside the Top 5 performing schools as it brought the score back to 90.630324%.  
 
 
 #### How does replacing the ninth-grade scores affect the following:
 
 * ##### Math and reading scores by grade
+As seen below, math and reading scores of Thomas High School were not affected aside from the omissions of compromised THS 9th Graders' scores.
 
 ###### Math Scores by Grade Before Deleting THS 9th Graders
 ![Math Scores by Grade Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Math_Scores_Before_NAN.PNG)
@@ -75,7 +91,7 @@ Average Reading Score
 
 
 * ##### Scores by School Spending Before Deleting THS 9th Graders
-![Scores by School Spending Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_Before_NAN.PNG)
+![Scores by School Spending Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Spending_Summary_Before_NAN.PNG)
 
 * ##### Scores by School Spending After Deleting THS 9th Graders
 ![Scores by School Spending After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Spending_Summary_No_THS_9th_Grade.PNG)
@@ -96,14 +112,14 @@ Average Reading Score
 
 
 ### Summary: 
-If the suspected grades were replaced, the effects on Thomas High School's standings would be large.
+If the suspected grades were replaced with NaN and deleted from Thomas High School's data, the effects on Thomas High School's standings would be large.
 
 * The overall passing grades of Thomas High School students dropped from 90.948012% to 65.076453% after replacing THS 9th graders' scores with NaN and rose to 90.630324% after deleting them from THS's data.
 
-* The percentages of Thomas High School students passing reading fell from to 69.663609% and rose to 97.018739% after deleting them from THS's data.
+* The percentages of Thomas High School students passing reading fell from 97.308869 to 69.663609% and rose to 97.018739% after deleting them from THS's data.
 
-* The percentages of Thomas High School students passing passing fell from 93.185690% to 66.911315%.
+* The percentages of Thomas High School students passing passing fell from 93.272171% to 66.911315% and rose to 93.185690% after deleting them from THS's data.
 
-* The average percentages of Thomas High School students' math and reading scores however did not change from 83.350937% or 83.896082% respectively. 
+* The average scores of THS's reading and math did not change that much; while tenths, hundreths, and thousandths of a percentage changed from old, Nan, and deleted scores, both math and reading scores did not drop from about 83%. 
 
-While the average percentages of math and reading scores would not change, the percentages of students passing math, reading, and overall dropped by more than 20%. Also, with the corrections to the grades, Thomas High School would no longer be in the Top 5 schools.
+While the average percentages of math and reading scores would not change that much, the percentages of students passing math, reading, and overall dropped by more than 20% when the suspected THS 9th Graders' scores were replaced with NaN and then bounce back to after the scores were eliminated. 
