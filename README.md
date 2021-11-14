@@ -14,10 +14,10 @@ The purpose of this analysis is to determine the effects of attempting to correc
 As seen below, overall passing scores fell by 0.3%, passing reading scores fell by 0.1%, and passing math scores fell by 0.2%. However, average reading scores did not change while average math scores fell by 0.1%. 
 
 
-##### District Analysis Before Replacing THS 9th Grade Scores with NAN
+##### District Analysis Before Replacing THS 9th Grade Scores with NaN
 ![District Analysis Before Replacing THS 9th Grade Scores with NAN](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/District_Summary_Before_NAN.PNG)
 
-##### District Analysis After Replacing THS 9th Grade Scores with NAN
+##### District Analysis After Replacing THS 9th Grade Scores with NaN
 ![District Analysis After Replacing THS 9th Grade Scores with NAN](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/District_Summary_After_NAN.PNG)
 
 
