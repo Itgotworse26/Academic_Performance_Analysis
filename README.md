@@ -100,13 +100,13 @@ As seen below, only the average reading score for the Spending Per Student bin f
 ![Scores by School Spending After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Spending_Summary_No_THS_9th_Grade.PNG)
 
 
-* #### Scores by School Size 
+* ##### Scores by School Size 
 As seen below, scores for medium sized schools with 1000 to 2000 students were not affected at all. Thomas High School is a medium sized school with 1635 students. 
 
-* #### Scores by School Size Before Deleting THS 9th Graders
+* ##### Scores by School Size Before Deleting THS 9th Graders
 ![Scores by School Size Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_Before_NAN.PNG)
 
-* #### Scores by School Size After Deleting THS 9th Graders
+* ##### Scores by School Size After Deleting THS 9th Graders
 ![Scores by School Size After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_No_THS_9th_Grade.PNG)
 
 
