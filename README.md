@@ -90,6 +90,9 @@ As seen below, math and reading scores of Thomas High School were not affected a
 ![Reading Scores by Grade After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Reading_Scores_No_THS_9th_Graders.PNG)
 
 
+* ##### Scores by School Spending
+As seen below, only the average reading score for the Spending Per Student bin for $601-$650 was affected; rising from 82% to 82.1% when compromised THS 9th Grade scores were omitted. 
+
 * ##### Scores by School Spending Before Deleting THS 9th Graders
 ![Scores by School Spending Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Spending_Summary_Before_NAN.PNG)
 
@@ -97,12 +100,18 @@ As seen below, math and reading scores of Thomas High School were not affected a
 ![Scores by School Spending After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Spending_Summary_No_THS_9th_Grade.PNG)
 
 
+* #### Scores by School Size 
+As seen below, scores for medium sized schools with 1000 to 2000 students were not affected at all. Thomas High School is a medium sized school with 1635 students. 
+
 * #### Scores by School Size Before Deleting THS 9th Graders
 ![Scores by School Size Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_Before_NAN.PNG)
 
 * #### Scores by School Size After Deleting THS 9th Graders
 ![Scores by School Size After Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Size_Summary_No_THS_9th_Grade.PNG)
 
+
+* ##### Scores by School Type 
+As seen below, scores for charter schools were not affected at all. Thomas High School is a charter school. 
 
 * ##### Scores by School Type Before Deleting THS 9th Graders
 ![Scores by school type Before Deleting THS 9th Graders](https://github.com/Itgotworse26/Academic_Performance_Analysis/blob/main/Results/Type_Summary_Before_NAN.PNG)
@@ -112,14 +121,6 @@ As seen below, math and reading scores of Thomas High School were not affected a
 
 
 ### Summary: 
-If the suspected grades were replaced with NaN and deleted from Thomas High School's data, the effects on Thomas High School's standings would be large.
+If the NaN that replaced the scores of Thomas High School's 9th graders were treated as zeros; the effect on Thomas High School's standing within the district would be devaststating. Thomas High School would drop from the Top 5 performing schools in the district, and drag down the performance of schools that spent $601-$650 per student, medium sized schools with 1000 to 2000 students, and charter schools. However, as seen above, if the compromised THS 9th graders were omitted, Thomas High School would stay inside the Top 5 performing schools and the scores of the district would only move a few percentages from the original scores.
 
-* The overall passing grades of Thomas High School students dropped from 90.948012% to 65.076453% after replacing THS 9th graders' scores with NaN and rose to 90.630324% after deleting them from THS's data.
-
-* The percentages of Thomas High School students passing reading fell from 97.308869 to 69.663609% and rose to 97.018739% after deleting them from THS's data.
-
-* The percentages of Thomas High School students passing passing fell from 93.272171% to 66.911315% and rose to 93.185690% after deleting them from THS's data.
-
-* The average scores of THS's reading and math did not change that much; while tenths, hundreths, and thousandths of a percentage changed from old, Nan, and deleted scores, both math and reading scores did not drop from about 83%. 
-
-While the average percentages of math and reading scores would not change that much, the percentages of students passing math, reading, and overall dropped by more than 20% when the suspected THS 9th Graders' scores were replaced with NaN and then bounce back to after the scores were eliminated. 
+The school district shhould take this as an opportunity to ask itself how it would treat the compromised scores and whether they would want to comsider them as zeros or simply omit them as done in the above analysis. While omitting the scores allows the district to maintain its original performance, it still does not answer the how, when, and why the scores of Thomas High School's 9th graders were suspected to be compromised.
